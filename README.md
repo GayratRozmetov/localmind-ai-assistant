@@ -1,5 +1,15 @@
 # LocalMind AI Business Assistant
 
+<p align="center">
+  <a href="https://localmind-ai-assistant.cloudy-beech-0660.chatgpt.site">
+    <img src="https://img.shields.io/badge/TRY_LIVE_AI-Open_LocalMind-D8FF45?style=for-the-badge&logoColor=black" alt="Try LocalMind AI">
+  </a>
+</p>
+
+## Live Demo
+
+**[Open LocalMind AI Business Assistant](https://localmind-ai-assistant.cloudy-beech-0660.chatgpt.site)**
+
 A free, private AI assistant that runs a real language model entirely inside the browser — without API keys, subscriptions or per-message charges.
 
 ## Features
