@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GayratRozmetov/localmind-ai-assistant/main/docs/localmind-ai-preview.jpg" alt="LocalMind AI Business Assistant preview" width="100%">
+</p>
+
 # LocalMind AI Business Assistant
 
 <p align="center">
